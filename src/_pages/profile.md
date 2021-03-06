@@ -8,13 +8,11 @@ permalink: /profile
 
 ### 🌋 Funny Jokes
 
-> "Have you heard about the object-oriented way to become wealthy?"
->> "No..."
->>> "Inheritance!"
-
-
-> "Why all Pascal programmers ask to live in Atlantis?"
->> "Because it is below C level."
+```
+"Have you heard about the object-oriented way to become wealthy?"
+"No..."
+"Inheritance!"
+```
 
 ---
 ### 💻 Languages and Tools
@@ -94,17 +92,10 @@ permalink: /profile
 <sup>*clicking on some badges may redirect you to the corresponding repositories</sup>
 
 ---
-### 👀 Active Repo
-[![Medical Machine](https://github-readme-stats.vercel.app/api/pin/?username=laihuutoan&repo=medical_machine&theme=radical "Medical Machine")](https://github.com/laihuutoan/medical_machine)
-[![Gatsby blog](https://github-readme-stats.vercel.app/api/pin/?username=laihuutoan&repo=brian-gatsby-blog&theme=highcontrast "Gatsby Blog")](https://github.com/laihuutoan/brian-gatsby-blog)
-
----
 ### 📫 Get In Touch
 <a href="https://www.linkedin.com/in/toan-lai-huu/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:laihuutoan@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
-&nbsp; &nbsp;
-<a href="https://www.facebook.com/laihuutoan/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="30px" alt="mail"></a>
 &nbsp; &nbsp;
 
 <img align="right" width="75" height="20" src="https://visitor-badge.glitch.me/badge?page_id=laihuutoan.laihuutoan">

@@ -19,16 +19,7 @@ module.exports = {
         frontmatter: {
           home: true,
         },
-      },
-      {
-        id: "fx",
-        dirname: "_fx",
-        path: "/",
-        itemPermalink: "/fx/:slug",
-        frontmatter: {
-          home: false,
-        },
-      },
+      }
     ],
     globalPagination: {
       lengthPerPage: 4,
@@ -47,7 +38,7 @@ module.exports = {
       ],
     },
     sns: {
-      github: 'https://github.com/laihuutoan/laihuutoan.github.io',
+      github: 'https://github.com/laihuutoan',
       feed: '',
     },
     seo: {
@@ -56,8 +47,7 @@ module.exports = {
       image: '/avatar.png',
       articleDirectoryNames: [
         '_posts',
-        '_pages',
-        '_fx'
+        '_pages'
       ],
     },
     ga: 'G-HWGXKGCNEW',
