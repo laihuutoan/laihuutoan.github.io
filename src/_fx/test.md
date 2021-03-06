@@ -1,14 +1,10 @@
 ---
-title: 'Awesome VuePress blog theme3👍'
-date: 2020-04-01
-update: 2020-04-02
+title: 'Hello World'
+date: 2021-03-06
+update: 2021-03-06
 tags:
-  - vue
-  - vuepress
-  - vuepress-theme
   - blog
-  - blog-theme
-author: ttskch
+author: toanlh
 ---
 
 ## TOC

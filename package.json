@@ -1,13 +1,13 @@
 {
-  "name": "toanlh",
+  "name": "vuepress-blog",
   "version": "0.0.1",
-  "description": "toanlh",
+  "description": "",
   "main": "index.js",
   "authors": {
-    "name": "toanlh",
-    "email": "toanlh"
+    "name": "",
+    "email": ""
   },
-  "repository": "toanlh/toanlh",
+  "repository": "/vuepress-blog",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
